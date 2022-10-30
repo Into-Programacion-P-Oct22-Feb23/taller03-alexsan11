@@ -22,7 +22,7 @@ public class Ejercicio07 {
         
          boolean valor;
 
-        valor = (((Math.sqrt(var1) + var2) / var3) == var2) || (var4 > var5) && ((var6 / var7) > Math.sqrt(var6));
+        valor = (((Math.sqrt(var1) + var2) / var3) == var2) || (var4 > var5) && ((var6 / var7) >= Math.sqrt(var6));
 
         System.out.println("====================Ejercicio 7==================== ");
         System.out.println("Resultado de la operacion es: " + valor);

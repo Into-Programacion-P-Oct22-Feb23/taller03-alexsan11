@@ -27,7 +27,7 @@ public class Ejercicio08 {
 
        boolean valor = ((var1 * var2) + var3 - var4 / var5 + Math.pow(var6, var7) >= var8) || (var9 >= var10 - var11 + var12);
         
-       System.out.println("=======ejercico09======"); 
+       System.out.println("=======ejercico08======"); 
        System.out.println(valor);
 
     }
